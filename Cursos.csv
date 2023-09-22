@@ -1,0 +1,7 @@
+id_curso,id_sede,nombre_curso,horario,duración (hr),dias,cantidad_estudiantes
+2008,1,Programación,7:00-9:25,3,"lunes, viernes",35
+2028,1,Cálculo 1,10:40-12:15,2,"lunes, miércoles, viernes",30
+2016,1,Física 1,12:20-13:55,2,"lunes,martes",35
+171,1,Ciudadanía,7:00-8:35,2,"martes, jueves",30
+170,1,Estadística,8:40-10:15,2,"martes, jueves",35
+2002,1,Álgebra,10:40-12:15,2,"martes, jueves",35
