@@ -98,6 +98,7 @@ public class Informe {
                     break;
                     
                 case 2:
+                        System.out.println("<<Informe>>");
                 //                        Imprimir informes
                 //            for(int i=0 ;i < cursoNoList.size() +cursoSiList.size()+1; ++i ){
                 //                    System.out.print(cursoNoList.get(i));
